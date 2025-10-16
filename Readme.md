@@ -14,6 +14,9 @@ python hash_mark.py
 File name And Purpose:
 
 sha256_custom.py: This file contains your own SHA-256 algorithm (the logic of how hashing works).
+
 hash_mark.py	: This file downloads the text of the Book of Mark and uses your SHA-256 function to calculate the hash.
+
 mark_sha256.txt: The output text file that stores the final hash value you got.
+
 README.md: A short note explaining what your project does and how to run it.
